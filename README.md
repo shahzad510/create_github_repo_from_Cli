@@ -3,8 +3,6 @@
 ## Table of Contents
 ---
 <!-- vscode-markdown-toc -->
-- [Uploading Local Repository to GitHub using Access Token](#uploading-local-repository-to-github-using-access-token)
-- [Table of Contents](#table-of-contents)
 - [1. Prerequisites](#1-prerequisites)
 - [2. Generating a Personal Access Token (PAT)](#2-generating-a-personal-access-token-pat)
 - [3. Uploading Your Repository](#3-uploading-your-repository)
