@@ -3,14 +3,14 @@
 ## Table of Contents
 ---
 <!-- vscode-markdown-toc -->
-- [1. Prerequisites](#1-prerequisites)
-- [2. Generating a Personal Access Token (PAT)](#2-generating-a-personal-access-token-pat)
-- [3. Uploading Your Repository](#3-uploading-your-repository)
-- [4. Initialize Git](#4-initialize-git)
-- [5. Stage and Commit](#5-stage-and-commit)
-- [6. Connect Local Repository to Remote](#6-connect-local-repository-to-remote)
-- [7. Push to GitHub](#7-push-to-github)
-- [8. Important Security Notes](#8-important-security-notes)
+- [Prerequisites](#1-prerequisites)
+- [Generating a Personal Access Token (PAT)](#2-generating-a-personal-access-token-pat)
+- [Uploading Your Repository](#3-uploading-your-repository)
+- [Initialize Git](#4-initialize-git)
+- [Stage and Commit](#5-stage-and-commit)
+- [Connect Local Repository to Remote](#6-connect-local-repository-to-remote)
+- [Push to GitHub](#7-push-to-github)
+- [Important Security Notes](#8-important-security-notes)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
