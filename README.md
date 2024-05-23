@@ -92,7 +92,7 @@ git remote add origin https://<your-username>:<your_access_token>@github.com/<yo
 git push -u origin main
 ```
 ---
-*(**Note:** If you're not using the main branch, replace it with your branch name. Main and master branch are conceptually the same thing. The convention just changed: previously the primary branch was called master and for newer repository that defaults to main . You should only ever have one of those in a single repository. Also note that, the most common name used for main branch is master branch if you are using git on linux terminal like such as ubuntu terminal.)*
+*(**Note:** If you're not using the main branch, replace it with your branch name or the master branch name. Main and master branch are conceptually the same thing. The convention just changed: previously the primary branch was called master and for newer repository that defaults to main . You should only ever have one of those in a single repository. Also note that, the most common name used for main branch is master branch if you are using git on linux terminal like such as ubuntu terminal.)*
 
 ---
 ##  8. <a name='ImportantSecurityNotes'></a>Important Security Notes 
